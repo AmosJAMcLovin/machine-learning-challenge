@@ -52,6 +52,12 @@ In this homework assignment, you will need to:
 
 - - -
 
+## Results
+
+* The second model provided higher results via GridSearch, this was made possible by slightly raising the parameter numbers from the first model's grid search
+* The first grid search results took one minute longer to process than the second grid search
+* Model 2 used a linear kernel and had a higher training and testing data score in comparison to the first model which used an rbf kernel
+
 ## Resources
 
 * [Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
