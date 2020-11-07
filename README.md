@@ -52,7 +52,7 @@ In this homework assignment, you will need to:
 
 - - -
 
-## Results
+## Analysis
 
 * The second model provided higher results via GridSearch, this was made possible by slightly raising the parameter numbers from the first model's grid search
 * The first grid search results took one minute longer to process than the second grid search
